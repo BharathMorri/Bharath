@@ -46,24 +46,35 @@
     \usepackage{hhline}                                           %%
     \usepackage{ifthen}                                           %%
   %optionally (for landscape tables embedded in another document): %%
-    \usepackage{lscape}     
+\usepackage{lscape}     
 \usepackage{tikz}
 \usepackage{circuitikz}
+\usepackage{atbegshi} 
+%http://ctan.org/pkg/atbegshi 
+\AtBeginDocument{\AtBeginShipoutNext{\AtBeginShipoutDiscard}} 
+%
 \usepackage{karnaugh-map}
 \usepackage{pgf}
 \usepackage{url}
 
 \begin{document}
 
+\begin{center}
+\title{CHAPTER 7\\TRIANGLES}
+\date{}
+\maketitle
+\section{EXERCISE 9.7.1}     
+\end{center}
+
 In each of the following,write the correct answer:
 
 \begin{enumerate}
 \item Which of the following is not a criterion for congurence of triangles?
 \begin{enumerate} 
-\item SAS
-\item ASA
-\item SSA
-\item SSS
+\item $SAS$
+\item $ASA$
+\item $SSA$
+\item $SSS$
 \end{enumerate}
 \item If $AB=QR$,$BC=PR$ and $CA=PQ$, then
 \begin{enumerate}
@@ -86,14 +97,14 @@ In each of the following,write the correct answer:
 \item 50$\degree$
 \item 100$\degree$
 \end{enumerate}
-\item In $\triangle PQR$, $\angle$R=$\angle$P and $QR=4cm$ and $PR=5cm$. Then the length of PQ is
+\item In $\triangle PQR$, $\angle$R=$\angle$P and $QR=4cm$ and $PR=5cm$. Then the length of $PQ$ is
 \begin{enumerate}
 \item $4cm$
 \item $5cm$
 \item $2cm$
 \item $2.5cm$
 \end{enumerate}
-\item D is a Point on the side BC of a $\triangle ABC$ such that AD bisects $\angle$BAC. Then
+\item $D$ is a Point on the side $BC$ of a $\triangle ABC$ such that $AD$ bisects $\angle$BAC. Then
 \begin{enumerate}
 \item $BD=CD$
 \item $BA>BD$
@@ -116,19 +127,19 @@ In each of the following,write the correct answer:
 \end{enumerate}
 \item In$\triangle PQR$, if $\angle R$ $>$ $\angle Q$,then
 \begin{enumerate}
-\item QR $>$ PR
-\item PQ $>$ PR
-\item PQ $<$ PR
-\item QR $<$ PR
+\item $QR > PR$
+\item $PQ > PR$
+\item $PQ < PR$
+\item $QR < PR$
 \end{enumerate}
-\item In triangles ABC and PQR, $AB=AC$, $\angle$C=$\angle$P and $\angle$B=$\angle$Q. The two triangles are
+\item In triangles $ABC$ and $PQR$, $AB=AC$, $\angle$C=$\angle$P and $\angle$B=$\angle$Q. The two triangles are
 \begin{enumerate}
 \item isosceles but not congruent	
 \item isosceles and congruent
 \item congruent but not isosceles
 \item neither congruent nor isosceles
 \end{enumerate}
-\item In triangles ABC and DEF, $AB=FD$ and $\angle$A=$\angle$D. Then two triangles will be congruent by SAS axiom if
+\item In triangles $ABC$ and $DEF$, $AB=FD$ and $\angle$A=$\angle$D. Then two triangles will be congruent by $SAS$ axiom if
 \begin{enumerate}
 \item $BC=EF$
 \item $AC=DE$

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2023.3.6)  15 MAR 2023 10:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2023.3.6)  23 MAR 2023 09:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1273,63 +1273,63 @@ File: tikzlibrarymatrix.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 )
 \@karnaughmap@var@colorindex@=\count332
 )
-LaTeX Font Info:    Trying to load font information for OT1+txr on input line 5
-6.
+LaTeX Font Info:    Trying to load font information for OT1+txr on input line 6
+0.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txr.fd
 File: ot1txr.fd 2000/12/15 v3.1
 ) (./9.7.1.aux)
 \openout1 = `9.7.1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 56.
+LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 60.
 LaTeX Font Info:    Trying to load font information for OML+txmi on input line 
-56.
+60.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omltxmi.fd
 File: omltxmi.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 60.
 LaTeX Font Info:    Trying to load font information for OMS+txsy on input line 
-56.
+60.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omstxsy.fd
 File: omstxsy.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 60.
 LaTeX Font Info:    Trying to load font information for OMX+txex on input line 
-56.
+60.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omxtxex.fd
 File: omxtxex.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 56.
-LaTeX Font Info:    Trying to load font information for U+txexa on input line 5
-6.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 60.
+LaTeX Font Info:    Trying to load font information for U+txexa on input line 6
+0.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxexa.fd
 File: utxexa.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Info: Redefining \celsius on input line 56.
-Package gensymb Info: Faking symbols for \degree and \celsius on input line 56.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Info: Redefining \celsius on input line 60.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 60.
 
 
 
 Package gensymb Warning: Not defining \perthousand.
 
-LaTeX Info: Redefining \ohm on input line 56.
-Package gensymb Info: Using \Omega for \ohm on input line 56.
+LaTeX Info: Redefining \ohm on input line 60.
+Package gensymb Info: Using \Omega for \ohm on input line 60.
 
 Package gensymb Warning: Not defining \micro.
 
@@ -1365,7 +1365,7 @@ Package caption Info: longtable package is loaded.
 Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 56.
+Package hyperref Info: Link coloring OFF on input line 60.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -1378,47 +1378,52 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count339
 )
-LaTeX Info: Redefining \ref on input line 56.
-LaTeX Info: Redefining \pageref on input line 56.
-LaTeX Info: Redefining \nameref on input line 56.
+LaTeX Info: Redefining \ref on input line 60.
+LaTeX Info: Redefining \pageref on input line 60.
+LaTeX Info: Redefining \nameref on input line 60.
 
 (./9.7.1.out) (./9.7.1.out)
 \@outlinefile=\write4
 \openout4 = `9.7.1.out'.
 
 \c@lstlisting=\count340
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 68
+Package ltshipout Info: Completed page discarded on input line 66.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 66
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 LaTeX Font Info:    Trying to load font information for U+txmia on input line 6
-8.
+6.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxmia.fd
 File: utxmia.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+txsya on input line 6
-8.
+6.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsya.fd
 File: utxsya.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+txsyb on input line 6
-8.
+6.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyb.fd
 File: utxsyb.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+txsyc on input line 6
-8.
+6.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
-) [1
+)
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
+LaTeX Warning: No \author given.
+
+LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <14.4> not available
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 66.
+[2{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [3]
 
 ! Package hooks Error: Missing \PopDefaultHookLabel.
 (hooks)                The label `eenrc' was pushed but never popped.
@@ -1427,34 +1432,35 @@ File: utxsyc.fd 2000/12/15 v3.1
 Type <return> to continue.
  ...                                              
                                                   
-l.139 \end{document}
+l.150 \end{document}
                     
 ? 
 (./9.7.1.aux)
 Package rerunfilecheck Info: File `9.7.1.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+(rerunfilecheck)             Checksum: A91F70F0287C134388388F0C88466DA5;49.
  ) )
 (\end occurred when \ifx on line 38 was incomplete) 
 Here is how much of TeX's memory you used:
- 35021 strings out of 479304
- 797768 string characters out of 5869780
- 1293347 words of memory out of 5000000
- 51638 multiletter control sequences out of 15000+600000
- 416544 words of font info for 64 fonts, out of 8000000 for 9000
+ 35065 strings out of 479304
+ 798327 string characters out of 5869780
+ 1294370 words of memory out of 5000000
+ 51677 multiletter control sequences out of 15000+600000
+ 431376 words of font info for 104 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,5n,103p,685b,566s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 102i,6n,103p,685b,570s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-di
 st/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/publi
 c/txfonts/rtxmi.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/r
 txr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsya.pfb></usr/share/tex
 live/texmf-dist/fonts/type1/public/txfonts/txsyc.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/urw/times/utmri8a.pfb>
-Output written on 9.7.1.pdf (2 pages, 35821 bytes).
+dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utm
+ri8a.pfb>
+Output written on 9.7.1.pdf (2 pages, 41725 bytes).
 PDF statistics:
- 117 PDF objects out of 1000 (max. 8388607)
- 104 compressed objects within 2 object streams
+ 125 PDF objects out of 1000 (max. 8388607)
+ 111 compressed objects within 2 object streams
  58 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
